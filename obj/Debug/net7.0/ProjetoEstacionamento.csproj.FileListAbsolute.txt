@@ -1,0 +1,30 @@
+C:\Users\hugo.santos\Documents\estudo\ProjetoEstacionamento\obj\Debug\net7.0\ProjetoEstacionamento.csproj.AssemblyReference.cache
+C:\Users\hugo.santos\Documents\estudo\ProjetoEstacionamento\obj\Debug\net7.0\ProjetoEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugo.santos\Documents\estudo\ProjetoEstacionamento\obj\Debug\net7.0\ProjetoEstacionamento.AssemblyInfoInputs.cache
+C:\Users\hugo.santos\Documents\estudo\ProjetoEstacionamento\obj\Debug\net7.0\ProjetoEstacionamento.AssemblyInfo.cs
+C:\Users\hugo.santos\Documents\estudo\ProjetoEstacionamento\obj\Debug\net7.0\ProjetoEstacionamento.csproj.CoreCompileInputs.cache
+C:\Users\hugo.santos\Documents\estudo\ProjetoEstacionamento\bin\Debug\net7.0\ProjetoEstacionamento.exe
+C:\Users\hugo.santos\Documents\estudo\ProjetoEstacionamento\bin\Debug\net7.0\ProjetoEstacionamento.deps.json
+C:\Users\hugo.santos\Documents\estudo\ProjetoEstacionamento\bin\Debug\net7.0\ProjetoEstacionamento.runtimeconfig.json
+C:\Users\hugo.santos\Documents\estudo\ProjetoEstacionamento\bin\Debug\net7.0\ProjetoEstacionamento.dll
+C:\Users\hugo.santos\Documents\estudo\ProjetoEstacionamento\bin\Debug\net7.0\ProjetoEstacionamento.pdb
+C:\Users\hugo.santos\Documents\estudo\ProjetoEstacionamento\obj\Debug\net7.0\ProjetoEstacionamento.dll
+C:\Users\hugo.santos\Documents\estudo\ProjetoEstacionamento\obj\Debug\net7.0\refint\ProjetoEstacionamento.dll
+C:\Users\hugo.santos\Documents\estudo\ProjetoEstacionamento\obj\Debug\net7.0\ProjetoEstacionamento.pdb
+C:\Users\hugo.santos\Documents\estudo\ProjetoEstacionamento\obj\Debug\net7.0\ProjetoEstacionamento.genruntimeconfig.cache
+C:\Users\hugo.santos\Documents\estudo\ProjetoEstacionamento\obj\Debug\net7.0\ref\ProjetoEstacionamento.dll
+C:\Users\Viitor\Desktop\Projetos VSCODE\ProjetoEstacionamento-main\bin\Debug\net7.0\ProjetoEstacionamento.exe
+C:\Users\Viitor\Desktop\Projetos VSCODE\ProjetoEstacionamento-main\bin\Debug\net7.0\ProjetoEstacionamento.deps.json
+C:\Users\Viitor\Desktop\Projetos VSCODE\ProjetoEstacionamento-main\bin\Debug\net7.0\ProjetoEstacionamento.runtimeconfig.json
+C:\Users\Viitor\Desktop\Projetos VSCODE\ProjetoEstacionamento-main\bin\Debug\net7.0\ProjetoEstacionamento.dll
+C:\Users\Viitor\Desktop\Projetos VSCODE\ProjetoEstacionamento-main\bin\Debug\net7.0\ProjetoEstacionamento.pdb
+C:\Users\Viitor\Desktop\Projetos VSCODE\ProjetoEstacionamento-main\obj\Debug\net7.0\ProjetoEstacionamento.csproj.AssemblyReference.cache
+C:\Users\Viitor\Desktop\Projetos VSCODE\ProjetoEstacionamento-main\obj\Debug\net7.0\ProjetoEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viitor\Desktop\Projetos VSCODE\ProjetoEstacionamento-main\obj\Debug\net7.0\ProjetoEstacionamento.AssemblyInfoInputs.cache
+C:\Users\Viitor\Desktop\Projetos VSCODE\ProjetoEstacionamento-main\obj\Debug\net7.0\ProjetoEstacionamento.AssemblyInfo.cs
+C:\Users\Viitor\Desktop\Projetos VSCODE\ProjetoEstacionamento-main\obj\Debug\net7.0\ProjetoEstacionamento.csproj.CoreCompileInputs.cache
+C:\Users\Viitor\Desktop\Projetos VSCODE\ProjetoEstacionamento-main\obj\Debug\net7.0\ProjetoEstacionamento.dll
+C:\Users\Viitor\Desktop\Projetos VSCODE\ProjetoEstacionamento-main\obj\Debug\net7.0\refint\ProjetoEstacionamento.dll
+C:\Users\Viitor\Desktop\Projetos VSCODE\ProjetoEstacionamento-main\obj\Debug\net7.0\ProjetoEstacionamento.pdb
+C:\Users\Viitor\Desktop\Projetos VSCODE\ProjetoEstacionamento-main\obj\Debug\net7.0\ProjetoEstacionamento.genruntimeconfig.cache
+C:\Users\Viitor\Desktop\Projetos VSCODE\ProjetoEstacionamento-main\obj\Debug\net7.0\ref\ProjetoEstacionamento.dll
